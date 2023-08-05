@@ -1,8 +1,16 @@
 <div align="center">
   <h1 align="center"> <img align="center" height="80" src="https://readme-typing-svg.herokuapp.com/?lines=╰(*°▽°*)╯;(っ°Д°%20)っ&font=Roboto&center=true" /> </h1>
-
 </div>
 
+```
+console.log(
+    [
+        'My Name Dwi Kurnia Surya',
+        'Undergraduate students From University Indraprasta PGRI',
+        'Computer science student who loves code.'
+    ]
+);
+```
 
 <div align="center"><img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" ></div>
 
