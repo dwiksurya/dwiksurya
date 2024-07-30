@@ -6,7 +6,7 @@
 console.log(
     [
         'My Name Dwi Kurnia Surya',
-        'Undergraduate students From University Indraprasta PGRI',
+        'Undergraduate students From Indraprasta PGRI University (UNINDRA)',
         'Computer science student who loves code.'
     ]
 );
