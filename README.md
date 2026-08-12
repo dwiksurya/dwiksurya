@@ -16,8 +16,5 @@ console.log(
 
 ### Hi 👋, I'm Dwi Kurnia Surya
 
-I am a Full Stack Web Developer with experience in designing, developing, and maintaining modern web applications. I have a strong passion for building scalable, efficient, and user-focused solutions using modern web technologies, with extensive experience in Laravel and related ecosystems.
-
-I enjoy exploring new technologies and continuously improving my technical skills to stay current with industry best practices. I am detail-oriented and committed to writing clean, maintainable, and high-quality code while optimizing application performance and development workflows.
-
+Full Stack Web Developer with 4+ years of experience building scalable web applications. Passionate about Laravel, PHP, JavaScript/TypeScript, React, and modern backend technologies. I enjoy writing clean, maintainable code, solving complex problems, and continuously learning new technologies to build reliable and efficient software.
 With a strong problem-solving mindset, the ability to learn quickly, and a collaborative approach, I am eager to contribute to a team where I can create impactful solutions, take on new challenges, and continue growing as a software engineer.
