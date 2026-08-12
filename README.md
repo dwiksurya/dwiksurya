@@ -16,4 +16,8 @@ console.log(
 
 ### Hi 👋, I'm Dwi Kurnia Surya
 
-I am a college student and also work as a full stack Laravel developer. I absolutely love exploring new technologies and learning new things. I am putting in a lot of effort to improve my skills in this area. As a developer, I am highly detail-oriented, always looking for ways to improve my code, and always striving to optimize my workflow. I believe that my passion for my work and my eagerness to learn new things make me a valuable asset to any team or project.
+I am a Full Stack Web Developer with experience in designing, developing, and maintaining modern web applications. I have a strong passion for building scalable, efficient, and user-focused solutions using modern web technologies, with extensive experience in Laravel and related ecosystems.
+
+I enjoy exploring new technologies and continuously improving my technical skills to stay current with industry best practices. I am detail-oriented and committed to writing clean, maintainable, and high-quality code while optimizing application performance and development workflows.
+
+With a strong problem-solving mindset, the ability to learn quickly, and a collaborative approach, I am eager to contribute to a team where I can create impactful solutions, take on new challenges, and continue growing as a software engineer.
